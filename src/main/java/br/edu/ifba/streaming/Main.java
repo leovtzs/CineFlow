@@ -1,9 +1,9 @@
-
 package br.edu.ifba.streaming;
 
 import java.util.List;
 
 import br.edu.ifba.streaming.estrutura.FilaAssistirDepois;
+import br.edu.ifba.streaming.estrutura.ListaFavoritos;
 import br.edu.ifba.streaming.model.Conteudo;
 import br.edu.ifba.streaming.model.Filme;
 import br.edu.ifba.streaming.model.Usuario;
@@ -26,7 +26,6 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.Priority;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import br.edu.ifba.streaming.estrutura.ListaFavoritos;
 
 public class Main extends Application {
 
